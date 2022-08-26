@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/flower/blue_orchid_pot" },
+			{ "model": "block/flower_pot/flower/blue_orchid_pot1" },
+			{ "model": "block/flower_pot/flower/blue_orchid_pot2" },
+			{ "model": "block/flower_pot/flower/blue_orchid_pot3" }
+		]
+    }
+}

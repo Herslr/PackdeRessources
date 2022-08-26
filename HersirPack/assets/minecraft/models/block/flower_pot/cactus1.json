@@ -1,0 +1,8 @@
+{
+    "__comment": "by ErGT",
+    "parent": "block/flower_pot/cactus",
+    "textures": {
+        "particle": "block/flower_pot1",
+        "flowerpot": "block/flower_pot1"
+    }
+}

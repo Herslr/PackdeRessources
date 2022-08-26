@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [{
+				"model": "block/flower_pot/cactus"
+			}, {
+				"model": "block/flower_pot/cactus1"
+			}, {
+				"model": "block/flower_pot/cactus2"
+			}, {
+				"model": "block/flower_pot/cactus3"
+			}
+		]
+	}
+}

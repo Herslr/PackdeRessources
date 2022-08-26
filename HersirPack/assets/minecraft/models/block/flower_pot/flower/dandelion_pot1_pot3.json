@@ -1,0 +1,7 @@
+{
+    "__comment": "JimStoneCraft - 2014, ErGT - 2017",
+    "parent": "block/flower_pot/cross3",
+    "textures": {
+        "plant": "block/flower_dandelion_pot1"
+    }
+}

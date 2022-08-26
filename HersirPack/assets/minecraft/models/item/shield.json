@@ -1,0 +1,16 @@
+{
+"parent": "item/sh_wood",
+
+"overrides": [
+
+		
+		{ "predicate": {"blocking": 1, "damaged": 0}, "model": "item/sh_wood_blocking"},
+		
+		{ "predicate": {"blocking": 0, "damaged": 1}, "model": "item/shield"},
+
+		{ "predicate": {"blocking": 1, "damaged": 1}, "model": "item/sh_wood_blocking"}
+		
+	
+		
+	]
+}

@@ -1,0 +1,8 @@
+{
+    "__comment": "JimStoneCraft - 2014, ErGT - 2017",
+    "parent": "block/flower_pot/misc/fern_pot",
+    "textures": {
+        "particle": "block/flower_pot1",
+        "flowerpot": "block/flower_pot1"
+    }
+}

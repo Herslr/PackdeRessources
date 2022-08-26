@@ -1,0 +1,81 @@
+{
+	"texture": "texture2.png",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0.25, -24.5, 7.25],
+			"boxes": [
+				{"coordinates": [-2, 21, -10, 4, 4, 6], "textureOffset": [18, 18]},
+				{"coordinates": [-3, 20, -6, 6, 6, 6], "textureOffset": [0, 12]},
+				{"coordinates": [-1, 25, -11, 0, 2, 3], "textureOffset": [0, 9]},
+				{"coordinates": [1, 25, -11, 0, 2, 3], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "bone",
+			"id": "bone",
+			"invertAxis": "xy",
+			"translate": [0.5, -21.5, -2],
+			"rotate": [15, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 18.96593, -1.25882, 8, 6, 6], "textureOffset": [0, 0]},
+				{"coordinates": [0.5, 20.96593, 4.74118, 0, 1, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"translate": [2, -26, 8],
+			"boxes": [
+				{"coordinates": [-10, 26, -6, 7, 0, 6], "textureOffset": [16, 0]}
+			]
+		},
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-3, -26, 8],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [3, 26, -6, 7, 0, 6], "textureOffset": [12, 12]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -5, 4, 2, 0], "textureOffset": [0, 26]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -3, 4, 2, 0], "textureOffset": [8, 24]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 4, 2, 0], "textureOffset": [0, 24]}
+			]
+		}
+	]
+}

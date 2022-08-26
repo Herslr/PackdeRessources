@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/misc/mushroom_red_pot" },
+			{ "model": "block/flower_pot/misc/mushroom_red_pot1" },
+			{ "model": "block/flower_pot/misc/mushroom_red_pot2" },
+			{ "model": "block/flower_pot/misc/mushroom_red_pot3" }
+		]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/flower/houstonia_pot" },
+			{ "model": "block/flower_pot/flower/houstonia_pot1" },
+			{ "model": "block/flower_pot/flower/houstonia_pot2" },
+			{ "model": "block/flower_pot/flower/houstonia_pot3" }
+		]
+    }
+}

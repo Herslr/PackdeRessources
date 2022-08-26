@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/sapling/acacia_pot" },
+			{ "model": "block/flower_pot/sapling/acacia_pot1" },
+			{ "model": "block/flower_pot/sapling/acacia_pot2" },
+			{ "model": "block/flower_pot/sapling/acacia_pot3" }
+		]
+    }
+}

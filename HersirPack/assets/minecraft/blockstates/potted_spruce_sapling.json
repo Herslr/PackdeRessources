@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/sapling/spruce_pot" },
+			{ "model": "block/flower_pot/sapling/spruce_pot1" },
+			{ "model": "block/flower_pot/sapling/spruce_pot2" },
+			{ "model": "block/flower_pot/sapling/spruce_pot3" }
+		]
+    }
+}

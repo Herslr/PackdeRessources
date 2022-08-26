@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/flower/dandelion_pot_pot" },
+			{ "model": "block/flower_pot/flower/dandelion_pot_pot1" },
+			{ "model": "block/flower_pot/flower/dandelion_pot_pot2" },
+			{ "model": "block/flower_pot/flower/dandelion_pot_pot3" },
+			{ "model": "block/flower_pot/flower/dandelion_pot1_pot" },
+			{ "model": "block/flower_pot/flower/dandelion_pot1_pot1" },
+			{ "model": "block/flower_pot/flower/dandelion_pot1_pot2" },
+			{ "model": "block/flower_pot/flower/dandelion_pot1_pot3" },
+			{ "model": "block/flower_pot/flower/dandelion_pot2_pot" },
+			{ "model": "block/flower_pot/flower/dandelion_pot2_pot1" },
+			{ "model": "block/flower_pot/flower/dandelion_pot2_pot2" },
+			{ "model": "block/flower_pot/flower/dandelion_pot2_pot3" },
+			{ "model": "block/flower_pot/flower/dandelion_pot3_pot" },
+			{ "model": "block/flower_pot/flower/dandelion_pot3_pot1" },
+			{ "model": "block/flower_pot/flower/dandelion_pot3_pot2" },
+			{ "model": "block/flower_pot/flower/dandelion_pot3_pot3" },
+			{ "model": "block/flower_pot/flower/dandelion_pot4_pot" },
+			{ "model": "block/flower_pot/flower/dandelion_pot4_pot1" },
+			{ "model": "block/flower_pot/flower/dandelion_pot4_pot2" },
+			{ "model": "block/flower_pot/flower/dandelion_pot4_pot3" },
+			{ "model": "block/flower_pot/flower/dandelion_pot5_pot" },
+			{ "model": "block/flower_pot/flower/dandelion_pot5_pot1" },
+			{ "model": "block/flower_pot/flower/dandelion_pot5_pot2" },
+			{ "model": "block/flower_pot/flower/dandelion_pot5_pot3" }
+		]
+    }
+}

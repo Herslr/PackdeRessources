@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/mob_spawner_cage/0" },
+            { "model": "block/mob_spawner_cage/1" },
+            { "model": "block/mob_spawner_cage/2" }
+        ]
+    }
+}

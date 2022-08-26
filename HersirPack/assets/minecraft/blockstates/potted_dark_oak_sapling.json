@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/flower_pot/sapling/dark_oak_pot" },
+			{ "model": "block/flower_pot/sapling/dark_oak_pot1" },
+			{ "model": "block/flower_pot/sapling/dark_oak_pot2" },
+			{ "model": "block/flower_pot/sapling/dark_oak_pot3" }
+		]
+    }
+}
